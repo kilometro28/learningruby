@@ -1,0 +1,5 @@
+# Convert symbols to strings
+
+p :age.to_s.class
+
+p "age".to_sym.class

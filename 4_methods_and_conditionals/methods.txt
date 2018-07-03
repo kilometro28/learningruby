@@ -1,0 +1,21 @@
+What is a method?
+
+A method is a grouped collection of Ruby statements that serves a purpose
+Methods are designed to be reused. Follow the golden rule: DRY
+DON'T REPEAT YOURSELF
+Methods abstract the complexity of solving a problem
+
+Method Definitions and Calls
+
+A method is first defined with a set of Ruby statements
+The method is then called or invoked. These are programming terms for "run" or "executed"
+
+example:
+
+def introduce_myself
+  puts "I am handsome"
+  puts "I am talented"
+  puts "I am brilliant"
+end
+
+introduce_myself

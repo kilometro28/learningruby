@@ -1,0 +1,8 @@
+#--
+This is a file to be read by ruby
+
+And here is another example about all you can do
+with the File class
+
+I'm learning pretty much, don't you think?
+--#
