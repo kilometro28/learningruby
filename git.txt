@@ -3,3 +3,9 @@ git add .
 git commit -m "comment"
 git remote add origin https://github.com/kilometro28/learningruby.git
 git push -u origin master
+
+Si sale error:
+
+git pull
+git fetch
+git merge
