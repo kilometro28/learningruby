@@ -1,5 +1,5 @@
 =begin
-#-- CHALLENGE: Guess the number
+CHALLENGE: Guess the number
 The goal: The program will first randomly generate a number unknown to the user.
 The user needs to guess what that number is. (In other words, the user needs
 to be able to input information). If the user's guess is wrong, the program
@@ -8,11 +8,6 @@ high or too low). If the user guesses correctly, a positive indication should
 appear. You'll need functions to check if the user input is an actual number,
 to see the difference between the inputted number and the randomly generated
 numbers, and to then compare the numbers.
-Concepts to keep in mind: Random function, Variables, Integers, Input/output,
-print, While loops, if/else statements.
-multiline comments = cmd + maj + 7
-puts "Great! And what's your age?"
-age = gets.chomp.to_i # convierte String en int
 =end
 
 puts "Guess the number "
@@ -39,5 +34,3 @@ while status == false
     status = true
   end
 end
-
-# ruby /Users/Pasquin/Desktop/ruby/r/guess.rb
