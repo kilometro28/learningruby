@@ -1,0 +1,19 @@
+--- Classes ---
+Instance variables (attributes) are variables
+that belongs to the object.
+Attributes provide information about the
+object's current state.
+Instance methods interact with the object.
+Encapsulation is a OOP concept that restricts
+direct access to an object.
+
+--- Classes and Objects ---
+A class is the blueprint, pattern, template or
+outline for an object.
+An object is the instance of a class. It is created
+from a class.
+Instantiation is the process of creating an object
+from a class.
+A class is called an abstract type because it hides
+the complexity of interacting with data, much like
+a method abstracts the complexity of a process.
