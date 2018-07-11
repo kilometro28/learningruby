@@ -1,0 +1,5 @@
+* Why mix in modules to classes?
+- Different classes need similar functionalities
+- For example, String and Numeric both need <, <=, >, >=, and ==
+- However neither class can be represented as a subclass of the other
+- Duplication of methods across classes violates the DRY principle

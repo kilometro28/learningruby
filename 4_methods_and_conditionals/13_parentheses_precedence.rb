@@ -1,4 +1,4 @@
-# parentheses precedence
+# parentheses and precedence
 
 def authenticate_agent(rank, name, credentials)
   if (rank == "007" && name == "James Bond") || credentials == "Secret Agent"
